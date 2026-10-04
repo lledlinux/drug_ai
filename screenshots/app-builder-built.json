@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Monograph",
+      "hasCanvas": false,
+      "bodyTextLen": 440,
+      "bodyTextHash": "69beac45de3007180efc110e528b69e3594f5baa3b8ad456adabc0270640f0d4",
+      "bodyTextPrefix": "Monograph Boards pharmacology Home Library Drill Cards Cases Com",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Monograph",
+      "hasCanvas": false,
+      "bodyTextLen": 354,
+      "bodyTextHash": "4a64046a9a3f549e3afb97915f03e1611d97edbd70cf750d687bb143eb3148ae",
+      "bodyTextPrefix": "TODAY Stay fluent in the formulary. 78 high-yield monographs, ad",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
